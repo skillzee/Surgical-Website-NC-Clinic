@@ -350,31 +350,31 @@ function classNames(...classes) {
                                     setFunc(!func)
                                     setSurgicalShown(!surgicalShown)
                                 }else if(option.label === 'Dental Instruments'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setDentalShown(!dentalShown)
                                 }else if(option.label === 'ENT Instruments'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setentshown(!entshown)
                                 }else if(option.label === 'General Surgical Instruments'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setgeneralSurShown(!generalSurShown)
                                 }else if(option.label === 'Gynecological Instruments'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setgynecologicalShown(!gynecologicalShown)
                                 }else if(option.label === 'Orthopedics Instruments'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setorthopedicsShown(!orthopedicsShown)
                                 }else if(option.label === 'Retractors'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setretractorsShown(!retractorsShown)
                                 }else if(option.label === 'Surgical Hollow-Ware Products'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setsurgicalHollowShown(!surgicalHollowShown)
                                 }else if(option.label === 'Surgical Scalpel Handle'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setsurgicalScalpelShown(!surgicalScalpelShown)
                                 }else if(option.label === 'Probes and Explorers'){
-                                  setFunc(!func)
+                                  setFunc(false)
                                   setprobesShown(!probesShown)
                                 }
                                 
