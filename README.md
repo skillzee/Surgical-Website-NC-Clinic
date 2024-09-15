@@ -1,8 +1,22 @@
-# React + Vite
+# NC Clinic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NC Clinic is a frontend website designed to display a wide range of surgical instruments across various categories. Built with React, the website offers users a clean and intuitive interface to explore and view different surgical tools.
 
-Currently, two official plugins are available:
+## Features
+- Categorized display of surgical instruments
+- Responsive and user-friendly design
+- Smooth navigation between different instrument categories
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **Frontend**: React
+- **Hosting**: (Specify hosting platform if applicable, e.g., Vercel, Netlify)
+
+## Demo
+
+You can view the live website here: [NC Clinic Demo](https://your-demo-link.com)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/nc-clinic.git
