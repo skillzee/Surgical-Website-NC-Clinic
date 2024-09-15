@@ -13,7 +13,7 @@ NC Clinic is a frontend website designed to display a wide range of surgical ins
 
 ## Demo
 
-You can view the live website here: [NC Clinic Demo](https://your-demo-link.com)
+You can view the live website here: [NC Clinic Demo](nc-surgicals.web.app)
 
 ## Installation
 
